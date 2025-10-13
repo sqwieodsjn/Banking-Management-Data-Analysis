@@ -1,0 +1,3 @@
+ChatGPT said:
+
+This Power BI project, Banking Management Analysis, provides a clear and interactive overview of a bank’s key operations. It includes three main sections — Home Loan Analysis, Deposit Analysis, and a Summary Page. The dashboard helps track loan distribution, approval rates, deposit growth, and key financial indicators such as total loans, deposits, and revenue. Designed using Power BI with Excel as the data source, this project enables users to easily visualize trends, monitor performance, and make informed, data-driven decisions to improve overall banking efficiency.
